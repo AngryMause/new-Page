@@ -10,7 +10,7 @@ import butterknife.ButterKnife;
 import ua.kek.dobriy_kot.diplomwork.R;
 
 public class MainActivity extends AppCompatActivity {
-    private Fragment fragment;
+
 
 
     @BindView(R.id.mainContainer)
@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void replaceFragment(Fragment fragment) {
-        this.fragment = fragment;
         getSupportFragmentManager().beginTransaction().replace(R.id.mainContainer,fragment).commit();
 
     }
