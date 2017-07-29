@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "589272487775",
+    "firebase_url": "https://anoherdiplom.firebaseio.com",
+    "project_id": "anoherdiplom",
+    "storage_bucket": "anoherdiplom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589272487775:android:11bab69972fa9c1a",
+        "android_client_info": {
+          "package_name": "ua.kek.dobriy_kot.anoherdiplom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589272487775-1v3eq0cbrti3d99hd1bln4qe2n784adf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ua.kek.dobriy_kot.anoherdiplom",
+            "certificate_hash": "c955874532f57582b6e5416564873098518a9a1a"
+          }
+        },
+        {
+          "client_id": "589272487775-7o6q4fr55a2d2jl8hpnc2ent82mfp36q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAto0cGbHeXmS5WFH9iO-GknMkS2uS4azA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589272487775-7o6q4fr55a2d2jl8hpnc2ent82mfp36q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

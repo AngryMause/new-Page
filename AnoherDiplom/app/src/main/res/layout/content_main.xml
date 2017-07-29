@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="ua.kek.dobriy_kot.anoherdiplom.activity.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+    <!--<android.support.v7.app.AlertController.RecycleListView-->
+        <!--android:id="@+id/random_product"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:scrollbarAlwaysDrawVerticalTrack="true"-->
+        <!--android:layout_height="80dp">-->
+
+    <!--</android.support.v7.app.AlertController.RecycleListView>-->
+
+    <TextView
+        android:id="@+id/show_category"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:background="@color/colorCategory"
+        android:gravity="center"
+        android:text="@string/category_text"
+        android:textSize="@dimen/text_size_category" />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:text="@string/reviewed_text"
+        android:textSize="@dimen/text_size_category"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!--<android.support.v7.app.AlertController.RecycleListView-->
+        <!--android:layout_marginTop="20dp"-->
+        <!--android:id="@+id/reviewed_recicle_list"-->
+        <!--android:scrollbarAlwaysDrawHorizontalTrack="true"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent">-->
+
+    <!--</android.support.v7.app.AlertController.RecycleListView>-->
+
+
+</LinearLayout>
