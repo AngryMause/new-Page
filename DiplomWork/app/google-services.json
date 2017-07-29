@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "331925643200",
+    "firebase_url": "https://diplomwork-be7c8.firebaseio.com",
+    "project_id": "diplomwork-be7c8",
+    "storage_bucket": "diplomwork-be7c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331925643200:android:9724b89dd4687407",
+        "android_client_info": {
+          "package_name": "ua.kek.dobriy_kot.diplomwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331925643200-vsgnnj6ck3u6qut2q9cvuv4u1sm0if7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ua.kek.dobriy_kot.diplomwork",
+            "certificate_hash": "c955874532f57582b6e5416564873098518a9a1a"
+          }
+        },
+        {
+          "client_id": "331925643200-hv868ve72a4p7bihhfueate0uhhun5m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnRyCNg4otCZLangyCBqSBhORmdRGwmqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331925643200-hv868ve72a4p7bihhfueate0uhhun5m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

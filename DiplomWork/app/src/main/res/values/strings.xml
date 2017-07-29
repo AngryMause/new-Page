@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DiplomWork</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="loginHint">Login</string>
+    <string name="passwordHint">Password</string>
+    <string name="singInText">SingIn</string>
+    <string name="singUpText">SingUp</string>
+    <string name="userNickNameHint">Nick Name</string>
+    <string name="userPasswordHint">Password</string>
+    <string name="userRepitPassHint">Repit Password</string>
+    <string name="userEmailHint">Email</string>
+    <string name="saveText">Save</string>
+    <string name="productCharacteristicsText">Characteristics</string>
+    <string name="productReviewsText">Reviews</string>
+
+    <string name="emptyLogin">Empty login</string>
+    <string name="emptyPassword">Empty password</string>
+    <string name="toShort">To Short</string>
+</resources>
